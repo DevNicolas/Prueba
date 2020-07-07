@@ -13,7 +13,7 @@ margin-top: 20px;
 }
 
 .border {
-   border: 1px solid none important; 
+   border: none important; 
 }
 
 
@@ -55,7 +55,7 @@ margin-top: 20px;
 @media only screen and (min-width: 600px) and (max-width: 1024px){
 
 p{
-  color: green;
+
   font-size: 7px;
 }
 .btn:not(:disabled):not(.disabled){
